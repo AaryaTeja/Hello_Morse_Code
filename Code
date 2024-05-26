@@ -1,0 +1,142 @@
+void setup() {
+  pinMode(6, OUTPUT);
+}
+void loop() {
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+
+  digitalWrite(6, HIGH);
+  delay(400);
+  digitalWrite(6, LOW);
+  delay(400);
+  digitalWrite(6, HIGH);
+  delay(400);
+  digitalWrite(6, LOW);
+  delay(400);
+
+  digitalWrite(6, HIGH);
+  delay(800);
+
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+
+  digitalWrite(6, HIGH);
+  delay(400);
+  digitalWrite(6, LOW);
+  delay(400);
+
+  digitalWrite(6, HIGH);
+  delay(800);
+
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(1000);
+
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+
+  digitalWrite(6, HIGH);
+  delay(800);
+  digitalWrite(6, LOW);
+  delay(800);
+
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+  delay(200);
+  digitalWrite(6, HIGH);
+  delay(200);
+  digitalWrite(6, LOW);
+}
